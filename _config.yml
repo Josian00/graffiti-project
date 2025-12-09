@@ -2,3 +2,4 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 title: Project Graffiti
 description: A Project to collect and share datasets as well as publications in relation to machine learning in the context of printed products.
 author: Josian Müller
+show-sidebar: true
