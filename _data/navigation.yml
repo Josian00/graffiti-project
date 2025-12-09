@@ -1,0 +1,7 @@
+- name: Post 1
+  link: /posts/project-graffiti
+- name: Posts
+  link: /posts/
+  dropdown:
+    - name: Page 2
+      link: /page-2/
